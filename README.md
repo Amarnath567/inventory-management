@@ -9,7 +9,7 @@ Additionally, a SQL query is used to join these tables and retrieve comprehensiv
 
 Also, 4 queries where written to validate and demonstrate how this database can be used in real time
 
-Query 1: To retrieves all columns for products where the product name is 'Jeans' from the products table. 
+Query 1: To retrieve all columns for products where the product name is 'Jeans' from the products table. 
 
 Query 2: To Identify the warehouse(s) with the maximum capacity, providing valuable insight into the capacity distribution across the warehouses in the dataset
 
