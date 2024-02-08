@@ -5,9 +5,7 @@ The products table stores information about products, including their name, desc
 
 Foreign key constraints are used to ensure referential integrity between the tables. Specifically, the inventory table references both the products and warehouses tables using foreign keys.
 
-Additionally, a SQL query is provided to join these tables and retrieve comprehensive information about products, warehouses, and inventory quantities. This query enables users to view details such as product name, description, price, warehouse location, inventory quantity, and last updated timestamp in a single result set.
-
-Overall, this project provides a foundation for managing inventory effectively, allowing businesses to track products across different warehouses and monitor inventory levels in real-time.
+Additionally, a SQL query is used to join these tables and retrieve comprehensive information about products, warehouses, and inventory quantities. This may enables users to view details such as product name, description, price, warehouse location, inventory quantity, and last updated timestamp in a single result set.
 
 Also, 4 queries where written to validate and demonstrate how this database can be used in real time
 
@@ -15,3 +13,6 @@ Query 1: To retrieves all columns for products where the product name is 'Jeans'
 Query 2: To Identify the warehouse(s) with the maximum capacity, providing valuable insight into the capacity distribution across the warehouses in the dataset
 Query 3: To identify the product or products with the lowest stock quantity among all products listed in the products table.
 Query 4: To calculate the total value of the inventory by summing the product of each product's price and its corresponding quantity on hand
+
+
+Overall, this project provides a foundation for managing inventory effectively, allowing businesses to track products across different warehouses and monitor inventory levels in real-time.
