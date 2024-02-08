@@ -10,8 +10,11 @@ Additionally, a SQL query is used to join these tables and retrieve comprehensiv
 Also, 4 queries where written to validate and demonstrate how this database can be used in real time
 
 Query 1: To retrieves all columns for products where the product name is 'Jeans' from the products table. 
+
 Query 2: To Identify the warehouse(s) with the maximum capacity, providing valuable insight into the capacity distribution across the warehouses in the dataset
+
 Query 3: To identify the product or products with the lowest stock quantity among all products listed in the products table.
+
 Query 4: To calculate the total value of the inventory by summing the product of each product's price and its corresponding quantity on hand
 
 
